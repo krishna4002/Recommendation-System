@@ -1,0 +1,10 @@
+pinecone
+langchain_pinecone
+streamlit
+pandas
+sentence-transformers
+openai
+langchain-openai
+dotenv
+
+#python -m streamlit run app/main.py
